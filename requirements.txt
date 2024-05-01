@@ -1,0 +1,6 @@
+rank-bm25
+scikit-learn
+pandas
+numpy
+uvicorn
+fastapi
